@@ -4,7 +4,7 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://azcarbot.azurewebsites.net/ <br>
-<b>Demo Video URL : https://drive.google.com/drive/folders/1ygOtNf6qG7vHQ-iypuod2S8p5NEnXNER?usp=sharing<br>
+<b>Demo Video URL : https://drive.google.com/file/d/13xZMP8rGESbo26NeNRzgjh1BWvB68pHp/view?usp=sharing<br>
 <b>Github Repository URL :</b>https://github.com/DeBron10/Car-Price-Predictor <br>
 <b>Industry :</b> Automotive and Technology<br>
 
